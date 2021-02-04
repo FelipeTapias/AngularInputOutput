@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "paises-input-output"
+  "defaultProject": "paises-input-output",
+  "cli": {
+    "analytics": false
+  }
 }
